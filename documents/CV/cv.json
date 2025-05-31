@@ -1,0 +1,230 @@
+{
+  "esp":
+  {
+    "degree": "Ingeniero en sistemas computacionales",
+    "location": "Morelia, Michoacán",
+    "cel": "+52 44-31-98-13-66",
+    "email": "raul.reyestorres99@gmail.com",
+    "aptitudes": [
+      "Responsabilidad", "Comprometido", "Trabajo en equipo", "Gusto por aprender", "Soft Skills"
+    ],
+    "speaks":[
+      {
+        "language": "Español",
+        "level": "100"
+      },
+      {
+        "language": "Inglés",
+        "level": "80"
+      }
+    ],
+    "knowledge":[
+      {
+        "skill": "Java",
+        "level": 80
+      },
+      {
+        "skill": "PHP",
+        "level": 70
+      },
+      {
+        "skill": "Python",
+        "level": 85
+      },
+      {
+        "skill": "SQL",
+        "level": 65
+      },
+      {
+        "skill": "C#",
+        "level": 55
+      },
+      {
+        "skill": "Power Platform",
+        "level": 80
+      },
+      {
+        "skill": "Shell Scripting",
+        "level": 60
+      }
+    ],
+    "experience": [
+      {
+        "place": "Swipe Apps",
+        "location": "Morelia",
+        "date": "Septiembre 2021 - Junio 2022",
+        "todo": "Desarrollador backend y QA en diversos puntos de venta y software de control de usuarios (alumnos) en escuela (Java)"
+      },
+      {
+        "place": "Universidad Jefferson",
+        "location": "Morelia",
+        "date": "Junio 2023 - Junio 2024",
+        "todo": "Coordinador de procesos y tecnología"
+      },
+      {
+        "place": "INEGI (Instituto nacional de estadística y geografía)",
+        "location": "Morelia",
+        "date": "Septiembre 2024 - Diciembre 2024",
+        "todo": "Técnico de soporte de TI nivel estatal"
+      },
+      {
+        "place": "UNICLA (Universidad contemporánea de las Américas)",
+        "location": "Morelia",
+        "date": "Enero 2025 - Actualidad",
+        "todo": "Docente y coordinador de carrera"
+      }
+    ],
+    "studies": [
+      {
+        "school": "ITM (Instituto tecnológico de Morelia)",
+        "degree": "Ingeniería en sistemas computacionales",
+        "date": "Agosto 2017 - Junio 2022"
+      },
+      {
+        "school": "UNIR México (Universidad internacional de La Rioja)",
+        "degree": "Máster Universitario Análisis y Visualización de Datos Masivos / Visual Analytics & Big Data",
+        "date": "Diciembre 2023 - Actualidad"
+      }
+    ],
+    "additional": [
+      {
+        "title": "Diplomado en soft skills y habilidades directivas",
+        "place": "UNIR México",
+        "date": "Diciembre 2023 - Junio 2024",
+        "duration": "100 hrs"
+      },
+      {
+        "title": "Curso de Programación en Python",
+        "place": "UNIR México",
+        "date": "Octubre 2023 - Junio 2024",
+        "duration": "80 hrs"
+      },
+      {
+        "title": "Curso de Bases de Datos SQL",
+        "place": "UNIR México",
+        "date": "Octubre 2023 - Junio 2024",
+        "duration": "96 hrs"
+      },
+      {
+        "title": "Diploma en Arquitectura de Datos",
+        "place": "UNIR México",
+        "date": "Mayo 2024 - Octubre 2024",
+        "duration": "342 hrs"
+      }
+    ]
+  },
+    "eng":
+  {
+    "degree": "Computer Engineering",
+    "location": "Morelia, Michoacán",
+    "cel": "+52 44-31-98-13-66",
+    "email": "raul.reyestorres99@gmail.com",
+    "aptitudes": [
+      "Responsibility", "Committed", "Teamwork", "Enjoyment of learning", "Soft Skills"
+    ],
+    "speaks":[
+      {
+        "language": "Spanish",
+        "level": "100"
+      },
+      {
+        "language": "English",
+        "level": "80"
+      }
+    ],
+    "knowledge":[
+      {
+        "skill": "Java",
+        "level": 80
+      },
+      {
+        "skill": "PHP",
+        "level": 70
+      },
+      {
+        "skill": "Python",
+        "level": 85
+      },
+      {
+        "skill": "SQL",
+        "level": 65
+      },
+      {
+        "skill": "C#",
+        "level": 55
+      },
+      {
+        "skill": "Power Platform",
+        "level": 80
+      },
+      {
+        "skill": "Shell Scripting",
+        "level": 60
+      }
+    ],
+    "experience": [
+      {
+        "place": "Swipe Apps",
+        "location": "Morelia",
+        "date": "September 2021 - Jun 2022",
+        "todo": "Backend Developer and QA for various point-of-sale systems and user management software (students) in a school (Java)"
+      },
+      {
+        "place": "Universidad Jefferson",
+        "location": "Morelia",
+        "date": "Jun 2023 - Jun 2024",
+        "todo": "Processes and Technology Coordinator"
+      },
+      {
+        "place": "INEGI (Instituto nacional de estadística y geografía)",
+        "location": "Morelia",
+        "date": "September 2024 - December 2024",
+        "todo": "State-level IT Support Technician"
+      },
+      {
+        "place": "UNICLA (Universidad contemporánea de las Américas)",
+        "location": "Morelia",
+        "date": "January 2025 - Currently",
+        "todo": "Teacher and Career Coordinator"
+      }
+    ],
+    "studies": [
+      {
+        "school": "ITM (Instituto tecnológico de Morelia)",
+        "degree": "Computer Systems Engineering",
+        "date": "August 2017 - Jun 2022"
+      },
+      {
+        "school": "UNIR México (Universidad internacional de La Rioja)",
+        "degree": "Master's Degree in Analysis and Visualization of Massive Data / Visual Analytics & Big Data",
+        "date": "December 2023 - Currently"
+      }
+    ],
+    "additional": [
+      {
+        "title": "Diploma in Soft Skills and Leadership Skills",
+        "place": "UNIR México",
+        "date": "December 2023 - Jun 2024",
+        "duration": "100 hrs"
+      },
+      {
+        "title": "Python Programming Course",
+        "place": "UNIR México",
+        "date": "October 2023 - Jun 2024",
+        "duration": "80 hrs"
+      },
+      {
+        "title": "SQL Database Course",
+        "place": "UNIR México",
+        "date": "October 2023 - Jun 2024",
+        "duration": "96 hrs"
+      },
+      {
+        "title": "Diploma in Data Architecture",
+        "place": "UNIR México",
+        "date": "May 2024 - OCtober 2024",
+        "duration": "342 hrs"
+      }
+    ]
+  }
+}

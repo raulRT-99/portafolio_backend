@@ -1,0 +1,54 @@
+{
+  "es": [
+    {
+      "id": 0,
+      "title": "Arquitectura de datos",
+      "place": "UNIR",
+      "extra": "Duración: 342 horas"
+    },
+    {
+      "id": 1,
+      "title": "Curso de programación en Python",
+      "place": "UNIR",
+      "extra": "Duración: 80 horas"
+    },
+    {
+      "id": 2,
+      "title": "Diplomado en Soft Skill y habilidades directivas",
+      "place": "UNIR",
+      "extra": "Duración: 100 horas"
+    },
+    {
+      "id": 3,
+      "title": "Curso de bases de datos SQL",
+      "place": "UNIR",
+      "extra": "Duración: 96 horas"
+    }
+  ],
+  "en":[
+    {
+      "id": 0,
+      "title": "Data Arquitecture",
+      "place": "UNIR",
+      "extra": "Duration: 342 hours"
+    },
+    {
+      "id": 1,
+      "title": "Python code course",
+      "place": "UNIR",
+      "extra": "Duration: 80 hours"
+    },
+    {
+      "id": 2,
+      "title": "Diploma in Soft Skills and Leadership Abilities",
+      "place": "UNIR",
+      "extra": "Duration: 100 hours"
+    },
+    {
+      "id": 3,
+      "title": "SQL database course",
+      "place": "UNIR",
+      "extra": "Duration: 96 hours"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "esp": [
+    {
+      "logo": "static/xp_logo/sa.png",
+      "site": "https://swipeapps.io/",
+      "place": "Swipe apps",
+      "date": "Septiembre 2021 - Junio 2022",
+      "todo": "Desarrollador backend y SQL, para plataforma de punto de venta en cadena de restaurantes, desarrollado en Java, con frameworks como Spring Boot y Hibernate. \nDesarrollador backend y QA de aplicacion en el area escolar en Typescript",
+      "tech": [
+        "static/technologies/java.png","static/technologies/spring.png" ,"static/technologies/dbeaver.png", "static/technologies/ts.png", "static/technologies/nest.png"
+      ]
+    },
+    {
+      "logo": "static/xp_logo/jeff.png",
+      "site": "https://jefferson.edu.mx/",
+      "place": "Universidad Jefferson",
+      "date": "Junio 2023 - Junio 2024",
+      "todo": "Coordinador de procesos y tecnología, encargado de generar y monitorear procesos para el correcto y eficiente uso de las tecnologias y plataformas escolares. \nConfiguracion de modulos en Zoho asi como el lenguaje Deluge. \nCreación de aplicacion movil con AppSheet",
+      "tech": [
+        "static/technologies/appsheet.png", "static/technologies/zoho.png", "static/technologies/deluge.png"
+      ]
+    },
+    {
+      "logo": "static/xp_logo/inegi.jpg",
+      "site": "https://www.inegi.org.mx/",
+      "place": "INEGI (Instituto nacional de estadística y geografía)",
+      "date": "Septiembre 2024 - Diciembre 2024",
+      "todo": "Soporte técnico a nivel estatal en la encuesta intercensal 2025. \nConfiguración de equipos de cómputo, celulares y tabletas. \nAnalísis y monitoreo de internet y telefonía en Michoacán. \nCreación de aplicaciones moviles con Power Apps",
+      "tech": [
+        "static/technologies/pwapps.jpg", "static/technologies/pwbi.jpg"
+      ]
+    },
+    {
+      "logo": "static/xp_logo/unicla.png",
+      "site": "https://unicla.edu.mx/",
+      "place": "UNICLA (Universidad contemporánea de las Américas)",
+      "date": "Enero 2025 - Actualidad",
+      "todo": "Docente y coordinador de las carrearas de Animación y Arte dígital, Ingeniería en Sistemas Computacionales y Arquitectura",
+      "tech": [
+        "static/technologies/python.png"
+      ]
+    }
+  ],
+  "eng": [
+    {
+      "logo": "static/xp_logo/sa.png",
+      "site": "https://swipeapps.io/",
+      "place": "Swipe apps",
+      "date": "September 2021 - Jun 2022",
+      "todo": "Backend and SQL Developer for a point-of-sale platform in a restaurant chain, developed in Java using frameworks such as Spring Boot and Hibernate. \nBackend Developer and QA for an application in the school area using Typescript.",
+      "tech": [
+        "static/technologies/java.png","static/technologies/spring.png" ,"static/technologies/dbeaver.png", "static/technologies/ts.png", "static/technologies/nest.png"
+      ]
+    },
+    {
+      "logo": "static/xp_logo/jeff.png",
+      "site": "https://jefferson.edu.mx/",
+      "place": "Universidad Jefferson",
+      "date": "Jun 2023 - Jun 2024",
+      "todo": "Coordinator of Processes and Technology, responsible for creating and monitoring processes to ensure the correct and efficient use of school technologies and platforms. \nConfiguration of modules in Zoho as well as the Deluge scripting language. \nCreation of a mobile application with AppSheet.",
+      "tech": [
+        "static/technologies/appsheet.png", "static/technologies/zoho.png", "static/technologies/deluge.png"
+      ]
+    },
+    {
+      "logo": "static/xp_logo/inegi.jpg",
+      "site": "https://www.inegi.org.mx/",
+      "place": "INEGI (Instituto nacional de estadística y geografía)",
+      "date": "September 2024 - December 2024",
+      "todo": "Technical support at the state level for the Encuesta Interncensal 2025. \nConfiguration of computers, cell phones, and tablets. \nAnalysis and monitoring of internet and telephony in Michoacán. \nCreation of mobile applications with Power Apps.",
+      "tech": [
+        "static/technologies/pwapps.jpg", "static/technologies/pwbi.jpg"
+      ]
+    },
+    {
+      "logo": "static/xp_logo/unicla.png",
+      "site": "https://unicla.edu.mx/",
+      "place": "UNICLA (Universidad contemporánea de las Américas)",
+      "date": "January 2025 - Currently",
+      "todo": "Teacher and coordinator of the degree programs in Animation and Digital Art, Computer Systems Engineering, and Architecture.",
+      "tech": [
+        "static/technologies/python.png"
+      ]
+    }
+  ]
+}

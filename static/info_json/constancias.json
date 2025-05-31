@@ -1,0 +1,76 @@
+{
+  "es": [
+    {
+      "id": 0,
+      "title": "Python y Flask: Desarrollo web y APIs tipo REST con FLask",
+      "place": "Udemy",
+      "date": "Noviembre 2024",
+      "extra": "Duración: 10.5 horas"
+    },
+    {
+      "id": 1,
+      "title": "Complete Pygame Tutorial - Create a Dungeon Crawler",
+      "place": "Udemy",
+      "date": "Abril 2025",
+      "extra": "Duración: 6.5 horas"
+    },
+    {
+      "id": 2,
+      "title": "Python Game Development Masterclass",
+      "place": "Udemy",
+      "date": "Abril 2025",
+      "extra": "Duración: 9 horas"
+    },
+    {
+      "id": 3,
+      "title": "R. Curso completo de R para Data Science y Machine Learning",
+      "place": "Udemy",
+      "date": "Noviembre 2024",
+      "extra": "Duración: 7.5 horas"
+    },
+    {
+      "id": 4,
+      "title": "Shell Scripting con Bash en Linux",
+      "place": "Udemy",
+      "date": "Abril 2025",
+      "extra": "Duración: 7.5 horas"
+    }
+  ],
+  "en": [
+    {
+      "id": 0,
+      "title": "Python and Flask: Web Development and RESTful APIs with Flask",
+      "place": "Udemy",
+      "date": "November 2024",
+      "extra": "Duration: 10.5 hours"
+    },
+    {
+      "id": 1,
+      "title": "Complete Pygame Tutorial - Create a Dungeon Crawler",
+      "place": "Udemy",
+      "date": "April 2025",
+      "extra": "Duration: 6.5 hours"
+    },
+    {
+      "id": 2,
+      "title": "Python Game Development Masterclass",
+      "place": "Udemy",
+      "date": "April 2025",
+      "extra": "Duration: 9 hours"
+    },
+    {
+      "id": 3,
+        "title": "R. Complete R Course for Data Science and Machine Learning",
+      "place": "Udemy",
+      "date": "November 2024",
+      "extra": "Duration: 7.5 hours"
+    },
+    {
+      "id": 4,
+      "title": "Shell Scripting with Bash in Linux",
+      "place": "Udemy",
+      "date": "April 2025",
+      "extra": "Duration: 7.5 hours"
+    }
+  ]
+}
